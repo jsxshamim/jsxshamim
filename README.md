@@ -37,15 +37,8 @@
 [<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />][webdevplaylist]
 [<img align="left" alt="heroku" width="26px" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" />][webdevplaylist]
 <br />
-
-<!-- <div align="center">
-  <a href="https://github.com/wpshamim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wpshamim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpshamim&card_width=550&show_icons=true&theme=react"/>
-</div> -->
   
-  
-![Snake animation](https://github.com/wpshamim/wpshamim/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 [website]: https://wpshamim.com/
 [twitter]: https://twitter.com/wpshamim
