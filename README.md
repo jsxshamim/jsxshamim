@@ -44,7 +44,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpshamim&card_width=550&show_icons=true&theme=react"/>
 </div> -->
   
-https://github.com/wpshamim/wpshamim/blob/main/github-user-contribution.svg
+
+![Snake animation](https://github.com/wpshamim/wpshamim/blob/main/github-user-contribution.svg)
 
 [website]: https://wpshamim.com/
 [twitter]: https://twitter.com/wpshamim
