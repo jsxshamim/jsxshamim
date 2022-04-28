@@ -43,9 +43,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wpshamim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpshamim&card_width=550&show_icons=true&theme=react"/>
 </div> -->
-  <div>
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
-  </div>
+  
+https://github.com/wpshamim/wpshamim/blob/main/github-user-contribution.svg
 
 [website]: https://wpshamim.com/
 [twitter]: https://twitter.com/wpshamim
