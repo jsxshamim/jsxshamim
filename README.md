@@ -37,7 +37,7 @@
 
 ![Shamim Reza's github stats](https://github-readme-stats.vercel.app/api?username=wpshamim&show_icons=true&theme=react)
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=wpshamim&card_width=550&show_icons=true&theme=radical)](https://github.com/wpshamim)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=wpshamim&card_width=550&show_icons=true&theme=react)](https://github.com/wpshamim)
 
 
 [website]: https://wpshamim.com/
