@@ -1,11 +1,15 @@
+<div>
 ### Hi there I am Shamim Reza 👋
 
 
 
 - 🌱 I’m a MERN Stack, React-Native developer 
 - 📫 How to reach me: mail.wpshamim@mail.com
+</div>
 
 
+
+<div>
 
 ### Connect with me:
 
@@ -14,8 +18,10 @@
 [![Twitter Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/wpshamim)
 [![Questions Ask](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14978156/shamim-reza) 
 
-<br />
+</div>
 
+
+<div>
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -30,7 +36,8 @@
 [<img align="left" alt="Express.js" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7S33Oq2FeRbyBBA6l1q8PwLVa3SzaONO-9Q&usqp=CAU" />][webdevplaylist]
 [<img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />][webdevplaylist]
 [<img align="left" alt="heroku" width="26px" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" />][webdevplaylist]
-<br />
+
+</div>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
