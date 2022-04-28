@@ -38,7 +38,7 @@
 [<img align="left" alt="heroku" width="26px" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" />][webdevplaylist]
 <br />
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wpshamim/wpshamim/blob/main/github-user-contribution.svg)
 
 [website]: https://wpshamim.com/
 [twitter]: https://twitter.com/wpshamim
