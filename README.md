@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <a href="https://wpshamim.com">
+  <a href="https://shamimreza.me">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=wpshamim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpshamim&layout=compact&langs_count=7&theme=react"/>
 </div>
@@ -41,10 +41,10 @@
   
   ![Snake animation](https://github.com/wpshamim/wpshamim/blob/main/github-user-contribution.svg)
 
-[website]: https://wpshamim.com/
+[website]: https://shamimreza.me
 [twitter]: https://twitter.com/wpshamim
 [linkedin]: https://www.linkedin.com/in/wpshamim
-[webdevplaylist]: https://www.wpshamim.com
-[jsplaylist]: https://www.wpshamim.com
-[cssplaylist]: https://www.wpshamim.com
-[reactplaylist]: https://www.wpshamim.com
+[webdevplaylist]: https://www.shamimreza.me
+[jsplaylist]: https://www.shamimreza.me
+[cssplaylist]: https://www.shamimreza.me
+[reactplaylist]: https://www.shamimreza.me
