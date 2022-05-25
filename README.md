@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m a MERN Stack, React-Native developer 
-- 📫 How to reach me: wpshamim@mail.com
+- 📫 How to reach me: wpshamim@gmail.com
 - ✨ My favourite meal to cook is salted egg, chicken and rice. I serve it at holiday gatherings with my family every year.
 
 
