@@ -3,22 +3,22 @@
 
 
 - 🌱 I’m a MERN Stack, React-Native developer 
-- 📫 How to reach me: wpshamim@gmail.com
+- 📫 How to reach me: jsxshamim@gmail.com
 - ✨ My favourite meal to cook is salted egg, chicken and rice. I serve it at holiday gatherings with my family every year.
 
 
 <div align="center">
   <a href="https://shamimreza.me">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=wpshamim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpshamim&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=jsxshamim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsxshamim&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/wpshamim) 
-[![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shamimreza.dev/)
-[![Twitter Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/wpshamim)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jsxshamim) 
+[![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jsxshamim)
+[![Twitter Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/jsxshamim)
 [![Questions Ask](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14978156/shamim-reza) 
 
 <br />
@@ -39,11 +39,11 @@
 [<img align="left" alt="heroku" width="26px" src="https://uploads.sitepoint.com/wp-content/uploads/2016/04/1461122387heroku-logo.jpg" />][webdevplaylist]
 <br />
   
-  ![Snake animation](https://github.com/wpshamim/wpshamim/blob/main/github-user-contribution.svg)
+  ![Snake animation](https://github.com/jsxshamim/jsxshamim/blob/main/github-user-contribution.svg)
 
 [website]: https://shamimreza.me
-[twitter]: https://twitter.com/wpshamim
-[linkedin]: https://www.linkedin.com/in/wpshamim
+[twitter]: https://twitter.com/jsxshamim
+[linkedin]: https://www.linkedin.com/in/jsxshamim
 [webdevplaylist]: https://www.shamimreza.me
 [jsplaylist]: https://www.shamimreza.me
 [cssplaylist]: https://www.shamimreza.me
