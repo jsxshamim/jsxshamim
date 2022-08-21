@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **jsxshamum@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CKw2M6M1p4oQrn9-MORyhh5XLTOTbA2B/view?usp=drivesdk](https://drive.google.com/file/d/1CKw2M6M1p4oQrn9-MORyhh5XLTOTbA2B/view?usp=drivesdk)
-
 - ⚡ Fun fact **It’s impossible to hum while holding your nose (just try it!).**
 
 <h3 align="left">Connect with me:</h3>
@@ -29,8 +27,16 @@
 <a href="https://linkedin.com/in/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsxshamim" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jsxshamim" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jsxshamim" height="30" width="40" /></a>
+<a href="https://kaggle.com/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jsxshamim" height="30" width="40" /></a>
 <a href="https://fb.com/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jsxshamim" height="30" width="40" /></a>
 <a href="https://instagram.com/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jsxshamim" height="30" width="40" /></a>
+<a href="https://www.behance.net/gfxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gfxshamim" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jsxshamim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jsxshamim" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jsxshamim" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jsxshamim" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jsxshamim" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/jsxshamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="jsxshamim" height="30" width="40" /></a>
+<a href="https://discord.gg/7999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,3 +45,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsxshamim&show_icons=true&locale=en&layout=compact" alt="jsxshamim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsxshamim&show_icons=true&locale=en" alt="jsxshamim" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsxshamim&" alt="jsxshamim" /></p>
