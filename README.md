@@ -21,7 +21,6 @@
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shamimreza.default)
 [![Twitter Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/shamim_coder)
 [![Questions Ask](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14978156/shamim-reza) 
-[![Read Blog](https://img.shields.io/badge/%20-Read-black?color=14171A&labelColor=fff&logo=medium&logoColor=0c0d0e26)](https://stackoverflow.com/users/14978156/shamim-reza) 
 
 <br />
 
