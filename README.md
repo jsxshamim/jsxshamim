@@ -1,8 +1,9 @@
 ### Hi there I am Shamim Reza 👋
 
 
+## I’m a Front-end (MERN Stack) Developer!!
 
-- 🌱 I’m a Front-end (MERN Stack) Developer 
+- 🌱 I’m currently learning web Advance Node & Mongoose
 - 📫 How to reach me: shamimreza.coder@gmail.com
 - ✨ My favourite meal to cook is salted egg, chicken and rice. I serve it at holiday gatherings with my family every year.
 
