@@ -3,7 +3,7 @@
 
 ## I’m a Front-end (MERN Stack) Developer!!
 
-- 🌱 I’m currently learning web Advance Node & Mongoose
+- 🌱 I’m currently learning Advanced Node and Mongoose for improving Backend skills
 - 📫 How to reach me: shamimreza.coder@gmail.com
 - ✨ My favourite meal to cook is salted egg, chicken and rice. I serve it at holiday gatherings with my family every year.
 
